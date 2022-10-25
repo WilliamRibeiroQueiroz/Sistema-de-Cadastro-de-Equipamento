@@ -1,0 +1,4 @@
+br\com\lojainformatica\aplicacao\Lojainformatica.class
+br\com\lojainformatica\dao\LojaInformaticaDAO.class
+br\com\lojainformatica\factory\ConnectionFactoryLojaInformatica.class
+br\com\lojainformatica\model\Computador.class
